@@ -14,7 +14,7 @@ Write words, draw patterns, and make your profile stand out — automatically.
 
 ![GitHub Graph Art Demo](https://ajmendez.github.io/assets/helloworld_finished.png)
 
-*Example: "HELLO" written on a real GitHub contribution graph*
+*Example: "HELLO WORLD" written on a real GitHub contribution graph*
 
 </div>
 
