@@ -639,7 +639,7 @@ export const makeCustomGrid = async (customGrid, dryRun = false) => {
 // Usage examples — uncomment whichever mode you want to run:
 
 // 1️⃣  100 random commits scattered across the year
-makeRandomCommits(100);
+makeRandomCommits(40);
 
 // 2️⃣  Write "HELLO" starting at week 5 (dry-run first to preview)
 // makeTextArt("HELLO", 5, "heavy", true);
