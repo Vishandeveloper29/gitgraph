@@ -629,7 +629,7 @@ export const makeCustomGrid = async (customGrid, dryRun = false) => {
       }
     }
     await git.push();
-    console.log("✅ Custom grid pushed!");
+    console.log("✅ Custom grid pushed! ");
   } else {
     console.log("🔍 Dry run complete.");
   }
